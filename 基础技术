@@ -7,3 +7,21 @@ https://www.toutiao.com/i6841181421642449420/
 
 《On Java 8》中文版
 https://github.com/LingCoder/OnJava8 
+
+【JDK 源码】
+ https://www.jianshu.com/p/7322ef0ee6c9
+ https://tech.meituan.com/2019/02/14/talk-about-java-magic-class-unsafe.html
+ https://www.jianshu.com/p/ad5d3ac9b7d2
+ http://www.iocoder.cn/JUC/sike/volatile/
+ https://juejin.im/post/6844903588834066439#heading-0
+ https://blog.csdn.net/seableble/article/details/103172331?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param
+
+
+【Dubbo】
+ Dubbo 高性能RPC通讯框架
+ http://dubbo.apache.org/zh-cn/docs/2.7/user/demos/consumer-threadpool/ 
+
+【Arthas】
+阿里JVM调试神器
+https://zhuanlan.zhihu.com/p/115127052
+https://zoyi14.smartapps.cn/pages/note/index?slug=4e34d0ab47d1&origin=share&hostname=baiduboxapp&_swebfr=1
