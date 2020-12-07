@@ -9,17 +9,21 @@ https://www.toutiao.com/i6841181421642449420/
 https://github.com/LingCoder/OnJava8 
 
 【JDK 源码】
+【JDK 源码】--【unsafe魔法类&&LockSupport】
  https://www.jianshu.com/p/7322ef0ee6c9
  https://tech.meituan.com/2019/02/14/talk-about-java-magic-class-unsafe.html
  https://www.jianshu.com/p/ad5d3ac9b7d2
  http://www.iocoder.cn/JUC/sike/volatile/
  https://juejin.im/post/6844903588834066439#heading-0
  https://blog.csdn.net/seableble/article/details/103172331?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param
-
+ 【JDK 源码】--【内存模型】
+ https://juejin.cn/post/6844903945471524871
+ https://www.jianshu.com/p/2ab5e3d7e510
 
 【Dubbo】
  Dubbo 高性能RPC通讯框架
  http://dubbo.apache.org/zh-cn/docs/2.7/user/demos/consumer-threadpool/ 
+ https://github.com/apache/dubbo/issues/2013
 
 【Arthas】
 阿里JVM调试神器
