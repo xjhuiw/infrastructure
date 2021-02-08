@@ -1,0 +1,263 @@
+Ô´ÂëÑÐ¾¿
+¡¾jdk¡¿
+  Object.finalizers
+  LockSupport.park
+	ThreadPoolExecutor(Èý)¡ª¡ªWorker
+
+1. Ä§·¨Àà Unsafe
+		Unsafe.getObjectVolatile
+		ReferenceQueue
+
+2. Ì½Õë		
+		-javaagent:E:/sijibao_project/gitlab/sijibao-pluto-agent/target/sijibao-pluto-agent.jar=E:/sijibao_project/gitlab/sijibao-pluto-agent/target/sijibao-pluto-agent.jar
+		
+		
+3. CompletableFuture 		
+
+¡¾dubbo¡¿
+1£º ServiceConfig 
+    ExtensionLoader.getExtensionLoader(ConfiguratorFactory.class)
+    ExtensionLoader.createAdaptiveExtension
+		sun.misc.Launcher$AppClassLoader
+		JarLoader.getResource 
+		JavassistProxyFactory
+		JavassistCompiler
+		ClassPool
+		
+		dubbo ÇÉÃîµÄfilter ºÍ invoker Á´Ê½Éè¼Æ
+		ProtocolFilterWrapper.buildInvokerChain
+
+
+¡¾spring¡¿
+    SpringFactoriesLoader.loadFactoryNames
+
+
+¡¾nettyÔ´Âë¡¿
+
+ Ïß³ÌÄ£ÐÍ https://www.infoq.cn/article/netty-threading-model
+ MpscLinkedQueue 
+ 
+ 
+
+ 
+
+ Total: 1
+ 
+ 
+ 
+ 
+ 
+ META-INF/dubbo/internal/com.alibaba.dubbo.common.extension.ExtensionFactory
+ 
+ 
+ 
+ com.alibaba.dubbo.config.spring.ReferenceBean
+ 
+ 
+¡¾°¢ÀïÈí¼þ¼Ü¹¹Í¼¡¿
+ 
+ https://online.visual-paradigm.com/cn/features/alibaba-cloud-architecture-diagram-software/
+ 
+ https://www.aliyun.com/product/edas?spm=5176.7946893.1288728.1.65e875baajv0Wo
+ 
+ https://www.processon.com/upgrade
+ 
+ 
+ 【Thread 】
+ https://www.cnblogs.com/trust-freedom/p/6606594.html
+
+ 
+ ¡¾JAVA JUC¡¿
+ https://www.jianshu.com/p/7322ef0ee6c9
+ https://tech.meituan.com/2019/02/14/talk-about-java-magic-class-unsafe.html
+ https://www.jianshu.com/p/ad5d3ac9b7d2
+ http://www.iocoder.cn/JUC/sike/volatile/
+ https://juejin.im/post/6844903588834066439#heading-0
+ https://blog.csdn.net/seableble/article/details/103172331?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param
+ 
+ ReentrantLock
+ https://www.zybuluo.com/kiraSally/note/989680#1reentrantlock%E5%AE%9A%E4%B9%89 
+ 
+ ¡¾JAVA ÄÚ´æÆÁÕÏ ¡¿
+ https://juejin.im/post/6844903945471524871
+ https://www.jianshu.com/p/2ab5e3d7e510
+ 
+ ¡¾JDK Ô´Âë ¡¿
+ https://juejin.im/post/6844903813892014087
+ 
+ https://www.cnblogs.com/throwable/p/12272290.html
+ 
+ ¡¾Dubbo¡¿
+ 
+ http://dubbo.apache.org/zh-cn/docs/2.7/user/demos/consumer-threadpool/
+ 
+ https://github.com/apache/dubbo/issues/2013
+ 
+ 
+ ÖªÊ¶ÐÇÇò
+ https://wx.zsxq.com/dweb2/index/group/481152225448
+ 
+ 
+ 
+ Ë«Ê®Ò» ½­ÄÏ°×ÒÂÍÆ½øµÄÊéµ¥
+https://mp.weixin.qq.com/s?__biz=MzIzODYyNjkzNw==&mid=2247484122&idx=1&sn=8823f8ad1f63ee75968d5695fa44c17c&chksm=e93733ccde40badac792b5f5b5b051343ffcedebcfe304082387898965e322cec827d39039b4&mpshare=1&scene=1&srcid=1110Wau3ZYZkxVESSgesd5He&sharer_sharetime=1604969197694&sharer_shareid=74aca0a47ccc0f1c7ca141d7fbf8345f&key=5e91d0cb520e7647cc169b509328fa171b361fac0af1b839b88c225bcf8e7c47330fef228c5bbb738df7e050a9e4582b07fd4f106601c2ab47fa4b88b72ad3c5a1a4277cde06d886a4d2cdf348a81b27ea16d2f629c00e96de3ea674db79fdef1b9311d596821ceb87b98ccec779d39fdafef7a9240cc9a89944529aafbe587b&ascene=1&uin=ODY0NDY3NDgw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AXtbL2qDx%2FkCnhvUu1IRdgk%3D&pass_ticket=GRVVrSqH1m5vBYP8RRaMw4KytxNjYcnhHnUOk%2FUpiUW1m1%2BkqGAwlAvfmTAYNhqd&wx_header=0
+
+
+¡¾¿ªÔ´ÖÐ¹ú ¿ªÔ´ÏîÄ¿ Top¡¿
+https://www.oschina.net/project/top_cn_2020
+
+https://github.com/alibaba/spring-cloud-alibaba
+
+
+
+
+¡¾Arthas¡¿
+
+https://github.com/alibaba/arthas/blob/master/README_CN.md 
+https://github.com/alibaba/arthas/blob/master/CONTRIBUTING.md#
+
+https://mp.weixin.qq.com/s?__biz=MzI5MDEzMzg5Nw==&mid=2660410515&idx=1&sn=d3905346060d15a50dcbc47d1a338238&chksm=f7428675c0350f632a7107ba31faa0c3560aa1544169396a5f229330b3561a9cc86f5adf31d4&mpshare=1&scene=23&srcid=1103cRXIpskE7dBpV841Ukjy&sharer_sharetime=1604391644008&sharer_shareid=4f32a57a1fac8783fb954438330d24c9#rd
+
+
+¡¾EPaxos ,raft ,zab Ð­Òé¡¿
+https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247500380&idx=1&sn=025c1c9fcdba8e72a5eb2e8c8aad98fd&chksm=e92aff53de5d76454f580f3adebda282f31d3f97a3d5c6f8cdb9c2d5d8283b1719263368753b&scene=126&sessionid=1603843101&key=81fa55bc47845c052bbd6e0f30b98026f172594cf52d9d37e1f04b48051849e4b66240c4db941ce45c207bc7b63c96c13b3b43267b87e514763492e1461cbcf787a4b5860418ec440f1ad2287037143654d40036583778be7d6d7a0c1daf12ebdd1717898b141379db87f7b7cb4c700ab4c284337a1675519e3187ebdac62457&ascene=1&uin=ODY0NDY3NDgw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AQVSX3rc1AW8NfBeBrXBX1M%3D&pass_ticket=HitGqy8DakyWfO0dPSodPvhHqhkbk6Z0sIHi7cn2bFh71rPS5BEaNeXfRhHi2gTz&wx_header=0
+
+
+https://juejin.im/post/6863126548120076301
+
+https://mail.qq.com/cgi-bin/frame_html?sid=lidyWQmydWeVTFQL&t=newwin_frame&url=%2fcgi-bin%2freadmail%3fmailid%3dZC2904-NYQNLn6wRlSmfmY56sn0cb1%26need_textcontent%3dtrue%26s%3dnotify%26newwin%3Dtrue%26t%3dreadmail&r=3e0ba2aecd63aff50cd61dadb5af30d4
+原因是jdk本身redefine和Retransform是不同的机制，同时使用两种机制来更新字节码，只有最后修改的会生效。
+
+
+
+
+
+¡¾Mysql µ×²ã¡¿
+https://www.jianshu.com/p/f692d4f8a53e
+https://segmentfault.com/a/1190000016566788
+https://cloud.tencent.com/developer/article/1593481
+
+¡¾redo/undo log¡¢binlog µÄÏê½â¼°ÆäÇø±ð¡¿
+https://www.jianshu.com/p/57c510f4ec28
+
+
+¡¾Òì²½ÏìÓ¦Ê½¡¿
+
+https://github.com/reactor/reactor-core
+http://projectreactor.mydoc.io/?t=44475
+
+reactor  
+Reactive Streams
+
+[JDWP ]
+
+-agentlib和-Xdebug区别
+https://www.jianshu.com/p/134bd5b913c5
+https://www.jianshu.com/p/d168ecdce022
+
+
+apache
+https://www.apache.org/
+
+
+Arthas
+https://zhuanlan.zhihu.com/p/115127052
+https://zoyi14.smartapps.cn/pages/note/index?slug=4e34d0ab47d1&origin=share&hostname=baiduboxapp&_swebfr=1
+
+
+
+
+[Kafka]
+com.wyyt.gyl.mls.transaction.manager.BIKafkaManager
+ future.addCallback(new ListenableFutureCallback (poll 拉取底层细节)
+ 
+ 
+
+【Netty 源码】
+【reactor 神秘面纱】
+https://www.jianshu.com/p/0d0eece6d467   
+【优雅退出机制】
+https://www.jianshu.com/p/088c5017acd6
+
+https://mp.weixin.qq.com/s/JRsbK1Un2av9GKmJ8DK7IQ
+
+https://www.freesion.com/article/37646516/#lazy_set_381
+Reactor 线程模型
+http://svip.iocoder.cn/Netty/EventLoop-1-Reactor-Model/
+
+https://wenjie.store/archives/about-bytebuf-7
+
+https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA%3D%3D&mid=2651012682&idx=2&sn=9b160cc890a3116b505f893bd1cdbd75&scene=45#wechat_redirect
+https://mp.weixin.qq.com/s/4OboSEYkf8gtXWgxoEQaww
+【Netty 源码-拉钩教育】
+https://kaiwu.lagou.com/course/courseInfo.htm?courseId=516#/detail/pc?id=4917
+https://www.infoq.cn/article/netty-version-upgrade-history-thread-part?utm_source=related_read&utm_medium=article
+
+
+
+【Netty-闪电侠】
+【Netty-闪电侠-reactor线程的面纱一】
+https://www.jianshu.com/p/0d0eece6d467
+【Netty-闪电侠-reactor线程的面纱（二）】
+https://www.jianshu.com/p/467a9b41833e
+【Netty-闪电侠-reactor线程的面纱（三）】
+https://www.jianshu.com/p/58fad8e42379
+
+
+
+【Disruptor--高性能队列】
+https://swarren12.github.io/disruptor/user-guide.html#_publishing
+【NETTY解读：JCTOOLS高性能无锁队列源码分析】
+https://www.freesion.com/article/37646516/#lazy_set_381
+
+[江南白衣-基础]
+https://www.oschina.net/news/81041/springside-back
+https://mp.weixin.qq.com/s?__biz=MzIzODYyNjkzNw==&mid=2247483676&idx=1&sn=29ea458aacaf3ee804e249b76b654e96&chksm=e937300ade40b91cbed4802d114dfbe971157b846f1f1adf287e0c913daabcb878250b845e75&mpshare=1&scene=1&srcid=1207hYiibFQNeHwlMsZJtc3V&sharer_sharetime=1607346463994&sharer_shareid=b12cb3e099f5eb166122552d30e895f1&key=452df62e0d28fbf6032fdf40860ac22b4451fc5c4685ebb6d15959e8f07d1e3d1422bea0061ea9fc79869bf491b83eeb7f879b4e43faf4f32ebcbb0805b44b7ef0f18270c4af25c69f1a3c0e8bedd52a4c2c4659fdd1b93ba921a641337be99ee477f799ad7ba771a8ecfece71774271bee7b2ec6a68580fab230005bfdf1af1&ascene=1&uin=ODY0NDY3NDgw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AXEASpFKX73M8cPhvLjbIKM%3D&pass_ticket=bwcslA0v%2B15vykqtMXGw6mODqtMbpZh7GYA3uHsxVdld6cublDNXxwzzIRxh%2FWrO&wx_header=0
+
+
+【开源社区】
+https://gitee.com/yellowcong/springboot-demo/tree/master/springboot-demo4/src/main/java/com/yellowcong
+
+
+
+【perfma】
+https://club.perfma.com/article/2084902#/article/2084902
+https://club.perfma.com/article/2062595#/article/2062595
+https://club.perfma.com/article/2056948
+【perfma-SafePoint 与 Stop The World 全解】
+https://club.perfma.com/article/2132225
+
+[oracle JAVA ]
+https://www.oracle.com/java/technologies/javase/8u-relnotes.html
+
+【stackoverflow 最流行的技术大牛流行网站】
+https://stackoverflow.com/
+
+【JVM】
+【JVM-美团-JIT(JUST In Time) C2 编译器优化】
+ https://tech.meituan.com/2020/10/22/java-jit-practice-in-meituan.html
+【JVM- JVMTI】
+【JVM-CPU Profiler】 
+ https://www.toutiao.com/i6746141021316317710/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1609997092&app=news_article&utm_source=weixin&utm_medium=toutiao_ios&use_new_style=1&req_id=202101071324510101501030524F0850A5&group_id=6746141021316317710
+ 
+ https://www.jianshu.com/p/4a3e6ac58ca3
+ https://www.jianshu.com/p/90ad6a8960fe
+ https://www.jianshu.com/p/5a7768f22b36
+ 
+【linux--内存管理&&内核】
+https://cloud.tencent.com/developer/column/88924
+https://mp.weixin.qq.com/s/x5gcn7zBh0ZEIevjNKB5Ww
+
+
+
+
+【JAVA 并发源码 -JUC 】
+https://github.com/wangwren/JUC
+https://ke.qq.com/course/284963
+
+
+【github地址】
+【1000多本计算机电子书免费下载---java-linux】
+https://github.com/itdevbooks/pdf#java
+
+https://github.com/sorenduan/awesome-java-books/issues
