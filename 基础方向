@@ -261,3 +261,52 @@ https://ke.qq.com/course/284963
 https://github.com/itdevbooks/pdf#java
 
 https://github.com/sorenduan/awesome-java-books/issues
+
+
+
+
+[linux 进程地址]
+[linux-64位Linux下的地址映射]
+https://blog.csdn.net/hhhanpan/article/details/80548687
+https://cloud.tencent.com/developer/column/1043
+
+
+[linux-腾讯虚拟地址内存]
+https://cloud.tencent.com/developer/article/1746324
+https://cloud.tencent.com/developer/column/1043
+
+https://cloud.tencent.com/developer/user/7686797/articles
+
+
+http://ilinuxkernel.com/?cat=4
+https://tech.meituan.com/2019/01/03/spring-boot-native-memory-leak.html
+https://club.perfma.com/article/96265
+
+
+
+
+[容器技术]
+docker && k8s
+https://docs.docker.com/engine/install/centos/
+
+ nohup $JAVA_HOME/bin/java $JAVA_OPTS $JAVA_GC $JAVA_MEM_OPTS $JAVA_DEBUG_OPTS $JAVA_JMX_OPTS
+ 
+ 
+ 
+【语雀�?
+ spring-hutool
+ https://www.yuque.com/iskeqi/code/ahi4hl
+ hutool工具
+ https://apidoc.gitee.com/loolly/hutool/
+ 
+ 
+ [Mybatis]
+ MybatisSimpleExecutor.prepareStatement
+ 
+ 
+ 
+【匠心零度】 
+http://www.jiangxinlingdu.com/link.html
+【并发集合篇】
+http://cmsblogs.com/?cat=151
+
